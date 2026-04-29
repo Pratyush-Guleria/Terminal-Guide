@@ -16,10 +16,6 @@ This repository contains **basic terminal commands** with:
 
 ---
 
-## 🚀 What You Will Learn
-	•	🧭 Navigation commands (cd, ls, pwd)
-	•	📁 File & folder operations (mkdir, rm, mv, cp)
-
 ## 🧠 Who Is This For?
 	•	Beginners learning terminal
 	•	Students starting development
