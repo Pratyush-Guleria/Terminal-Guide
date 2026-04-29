@@ -16,18 +16,6 @@ This repository contains **basic terminal commands** with:
 
 ---
 
-## 📂 Current Structure
-
-```bash
-terminal-guide/
-│
-├── 01-Basics/
-│   ├── navigation.md
-│   ├── file-operations.md
-│
-└── README.md
-```
-
 ## 🚀 What You Will Learn
 	•	🧭 Navigation commands (cd, ls, pwd)
 	•	📁 File & folder operations (mkdir, rm, mv, cp)
